@@ -15,6 +15,9 @@ The stacked bar chart near the bottom of the visualization keeps track of how ma
 <img width="1127" height="127" alt="image" src="https://github.com/user-attachments/assets/7e965609-7c49-4b0c-ad01-b3fd4dd6652e" />
 <br>
 
+
+
+
 </br>
 Survey Project:
 This project shows data from a survey that different professionals in the data industry completed.

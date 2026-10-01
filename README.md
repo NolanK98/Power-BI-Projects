@@ -25,3 +25,27 @@ This project shows data from a survey that different professionals in the data i
 <img width="1128" height="643" alt="Screenshot 2026-10-01 182949" src="https://github.com/user-attachments/assets/2ef4508f-82de-40b5-ab61-a47d42c0ba4c" />
 
 There are a variety of visualizations included to show the results of the survey in a way that makes the data easier to understand for a non-technical audience.
+
+<strong>Lego Set Finder Project</strong>:
+The point of this project was to give someone the opportunity to find Lego sets and information about them very easily. The three cards at the top show the total amount of sets, the average amount of pieces for each set, and the average price of each set.
+
+<img width="1152" height="643" alt="Screenshot 2026-10-01 190013" src="https://github.com/user-attachments/assets/796ceea8-ce69-474d-8fd3-0f32be6a5ddb" />
+
+One can click on different sets and filters in the scalers and lists in order to find information about a specific set.
+
+<img width="1147" height="627" alt="image" src="https://github.com/user-attachments/assets/4bbff46c-15b3-448f-a61d-a316cc388c7b" />
+
+There are two buttons on the main page of this project: "Reset Filters" and "Explore Sets". Reset Filters does exactly what it entails. If one fills the scalers with data for a certain set, and doesn't want to apply that anymore, then they can click on that button and go back to normal.
+
+<img width="1151" height="627" alt="image" src="https://github.com/user-attachments/assets/cc8eac40-b54e-4955-83d9-c8965454c69a" />
+
+Clicking the "Explore Sets" buttons allows you to go to another page and study a decomposition tree showing data on the different sets. That page also has a back button to go back to the original page.
+<img width="1147" height="642" alt="image" src="https://github.com/user-attachments/assets/3343cdf1-1b99-48f4-8836-1836d550ee5f" />
+
+The scale makes it so one can set the max price of a Lego set. The list below will only show Lego sets that are cheaper than that price.
+
+<img width="733" height="327" alt="Screenshot 2026-10-01 191717" src="https://github.com/user-attachments/assets/a0d9bc23-0b92-4c07-8ecf-07e68604aac3" />
+
+
+
+

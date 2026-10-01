@@ -13,3 +13,10 @@ One can change the data of this visualization by clicking on a data point in any
 The stacked bar chart near the bottom of the visualization keeps track of how many flights are on-time, delayed, and canceled. It also compares the data from one airport to the others when the user picks data from a specific airport to analyze. The user can look at the numbers by hovering over it.
 
 <img width="1127" height="127" alt="image" src="https://github.com/user-attachments/assets/7e965609-7c49-4b0c-ad01-b3fd4dd6652e" />
+
+Survey Project:
+This project shows data from a survey that different professionals in the data industry completed.
+
+<img width="1128" height="643" alt="Screenshot 2026-10-01 182949" src="https://github.com/user-attachments/assets/2ef4508f-82de-40b5-ab61-a47d42c0ba4c" />
+
+There are a variety of visualizations included to show the results of the survey in a way that makes the data easier to understand for a non-technical audience.

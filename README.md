@@ -1,7 +1,7 @@
 # Power-BI-Projects
 These are some of my Power BI projects that I am proud of.
 
-Flight Project:
+<strong>Flight Project</strong>:
 This project depicted data from different airlines, and put them into three main categories of "total flights", "delayed flights", and "canceled flights". 
 
 <img width="1142" height="642" alt="image" src="https://github.com/user-attachments/assets/e6f004ec-3e5e-4646-9fc2-29b675db6a49" />
@@ -19,7 +19,7 @@ The stacked bar chart near the bottom of the visualization keeps track of how ma
 
 
 </br>
-Survey Project:
+<strong>Survey Project</strong>:
 This project shows data from a survey that different professionals in the data industry completed.
 
 <img width="1128" height="643" alt="Screenshot 2026-10-01 182949" src="https://github.com/user-attachments/assets/2ef4508f-82de-40b5-ab61-a47d42c0ba4c" />

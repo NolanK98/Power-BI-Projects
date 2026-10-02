@@ -6,6 +6,10 @@ I completed this project with Tableau. It contains data about British Airways Fl
 
 <img width="1192" height="687" alt="image" src="https://github.com/user-attachments/assets/7d2b0f5a-b12f-4e1c-8a44-d7e7315ddba6" />
 
+One can change the visualizations and data by selecting options in the containers on the left side of the screen. This will change the visualizations of the dashboard.
+
+<img width="1187" height="682" alt="image" src="https://github.com/user-attachments/assets/28526813-ab00-4642-a327-325c9b9b37dc" />
+
 I created the visualizations on different worksheets, then placed them all on the "British Airways Review" dashboard because I considered that to be the most tidy way of arranging the project.
 
 <img width="472" height="45" alt="image" src="https://github.com/user-attachments/assets/2bdad579-246f-4469-9cfd-1b2057e6a5b7" />
